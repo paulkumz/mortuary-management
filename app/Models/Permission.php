@@ -3,7 +3,7 @@
 namespace hospital\Models;
 
 
-use Illuminate\Database\Eloquent\Model;
+//use Illuminate\Database\Eloquent\Model;
 
 class Permission extends Model
 {
