@@ -15,7 +15,7 @@
 	  </div>
 	</div>
 
-	@can('overall_control')
+	
 
 	<div class="col-lg-4 piece">
 	<div class="pad">
@@ -23,16 +23,10 @@
 	  </div>
 	</div>
 </div>
-  @else
+  
 
-  <div class="col-lg-4 piece">
-	<div class="pad">
-		<a href="#"><span class="glyphicon glyphicon-dashboard" aria-hidden="true" style="color:brown; font-size:45px;"></span><h3>Nurse</h3></a>
-	  </div>
-	</div>
-</div>
 
-  @endcan
+  
 
 <div class="row col-xs-12">
 	<div class=" col-lg-4 piece">
