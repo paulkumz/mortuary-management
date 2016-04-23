@@ -2,7 +2,7 @@
 
 namespace hospital\Providers;
 
-use hospital\Permission;
+
 use Illuminate\Contracts\Auth\Access\Gate as GateContract;
 use Illuminate\Foundation\Support\Providers\AuthServiceProvider as ServiceProvider;
 
